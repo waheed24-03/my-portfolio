@@ -2,7 +2,7 @@
 
 A modern and responsive portfolio website built using **React**, **Tailwind CSS**, and **React Router**, showcasing my projects, blogs, and technical journey as an aspiring **Data Scientist** and **Web Developer**.
 
-🌐 **Live Demo**: [Visit Portfolio](https://your-netlify-url.netlify.app)  
+🌐 **Live Demo**: [Visit Portfolio](https://waheeds-portfolio.netlify.app/)  
 🔗 **GitHub Repo**: [my-portfolio](https://github.com/waheed24-03/my-portfolio)
 
 ---
@@ -15,22 +15,6 @@ A modern and responsive portfolio website built using **React**, **Tailwind CSS*
 - 🖼️ Glowing profile and visually pleasing UI (Tailwind CSS)
 - 🔁 Fully responsive and mobile-optimized
 - 🧭 Integrated routing using `react-router-dom`
-
----
-
-## 📂 Folder Structure
-
-my-portfolio/
-├── public/
-│ └── images/
-├── src/
-│ ├── components/ # Reusable UI components (Header, Footer, etc.)
-│ ├── pages/ # Main views like Blogs, BlogPost, Portfolio
-│ ├── styles/ # Custom CSS (e.g., profile glow)
-│ ├── App.jsx
-│ └── main.jsx
-├── README.md
-└── package.json
 
 ---
 
