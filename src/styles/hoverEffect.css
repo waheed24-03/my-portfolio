@@ -1,0 +1,41 @@
+/* .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-img,
+.my-img {
+    position: absolute;
+    width: 100%;
+    transition: opacity 0.5s ease, transform 0.5s ease, border-radius 0.5s ease, box-shadow 0.5s ease;
+    border-radius: 10px;
+}
+
+.bg-img {
+    opacity: 1;
+    z-index: 1;
+}
+
+.my-img {
+    opacity: 0;
+    z-index: 0;
+    transform: scale(0.9);
+}
+
+.image-container:hover .bg-img {
+    opacity: 0;
+    transform: scale(0.9);
+}
+
+.image-container:hover .my-img {
+    opacity: 1;
+    z-index: 1;
+    transform: scale(1.1);
+    border-radius: 50%;
+    box-shadow: 0 8px 16px rgba(255, 215, 0, 0.6);
+} */
