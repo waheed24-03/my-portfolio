@@ -1,0 +1,65 @@
+# 💼 Waheed's  — Personal Portfolio
+
+A modern and responsive portfolio website built using **React**, **Tailwind CSS**, and **React Router**, showcasing my projects, blogs, and technical journey as an aspiring **Data Scientist** and **Web Developer**.
+
+🌐 **Live Demo**: [Visit Portfolio](https://your-netlify-url.netlify.app)  
+🔗 **GitHub Repo**: [my-portfolio](https://github.com/waheed24-03/my-portfolio)
+
+---
+
+## 🚀 Features
+
+- ⚡ Dynamic hero section with typing animation
+- 📌 Dedicated sections for Projects, Education, and Experience
+- 🧠 Interactive Blogs with routing and blog post pages
+- 🖼️ Glowing profile and visually pleasing UI (Tailwind CSS)
+- 🔁 Fully responsive and mobile-optimized
+- 🧭 Integrated routing using `react-router-dom`
+
+---
+
+## 📂 Folder Structure
+
+my-portfolio/
+├── public/
+│ └── images/
+├── src/
+│ ├── components/ # Reusable UI components (Header, Footer, etc.)
+│ ├── pages/ # Main views like Blogs, BlogPost, Portfolio
+│ ├── styles/ # Custom CSS (e.g., profile glow)
+│ ├── App.jsx
+│ └── main.jsx
+├── README.md
+└── package.json
+
+---
+
+## 🧠 Tech Stack
+
+- **Frontend**: React, Tailwind CSS
+- **Routing**: React Router
+- **Animation**: Typed.js
+- **Version Control**: Git & GitHub
+- **Deployment**: Netlify
+
+---
+
+## 📌 Highlighted Projects
+
+- 🔍 **AI-powered Summarization Chatbot (RAG-based)**
+- ⚖️ **AI Legal Assistant using LangChain + OpenAI**
+- 📊 **IPL Data Analysis with Real-Time Visuals**
+- 📈 **Stock Price Forecast using LSTM**
+- 💻 **Gemini Crypto Platform Clone**
+- 📁 **React-based Blog Portfolio**
+
+---
+
+## 🛠️ Setup Instructions
+git clone https://github.com/waheed24-03/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev
+
+
+
