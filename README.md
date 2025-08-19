@@ -38,13 +38,13 @@ A modern and responsive portfolio website built using **React**, **Tailwind CSS*
 - 📁 **React-based Blog Portfolio**
 
 ---
-
+``` bash
 ## 🛠️ Setup Instructions
 - git clone https://github.com/waheed24-03/my-portfolio.git
 - cd my-portfolio
 - npm install
 = npm run dev
-
+```
   # 👤 Author
 -  Syed Abdul Waheed
 -  Data Science Enthusiast | Python Developer | Automation Explorer
